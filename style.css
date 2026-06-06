@@ -2,7 +2,12 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   color: #111827;
-  background: white;
+  background: linear-gradient(
+    180deg,
+    #dbeafe 0%,
+    #eff6ff 28%,
+    #ffffff 62%
+  );
   line-height: 1.6;
 }
 
